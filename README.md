@@ -1,14 +1,13 @@
 # Analizador de Jerarquia de Encabezados H1-H6
 
 [![Analizador Jerarquia Encabezados](https://img.shields.io/badge/TAVARDT-Heading%20Hierarchy-5b3cf5.svg)](https://tools.tavardt.com/mx/analizador-etiquetas-encabezado/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Mexico-00C853.svg)](https://ag.tavardt.com/mx/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Evaluacion de coherencia semantica, deteccion de saltos jerarquicos y optimizacion para motores de busqueda.
 
-Desarrollado y respaldado por la division de calidad digital de **[TAVARDT Mexico](https://ag.tavardt.com/mx/)**.
+Desarrollado y respaldado por la division de calidad digital de **TAVARDT Mexico**.
 
----
+***
 
 ## Capacidades de Diagnostico de Encabezados
 
@@ -18,7 +17,7 @@ Desarrollado y respaldado por la division de calidad digital de **[TAVARDT Mexic
 * **Esquema de Documento Accesible**: Mapeo claro de la estructura de lectura para usuarios y rastreadores.
 * **Indice de Calidad Semantica**: Puntuacion de 0 a 100 con lineamientos practicos de resolucion.
 
----
+***
 
 ## Instalacion y Uso
 
@@ -33,20 +32,20 @@ python heading_hierarchy_validator.py https://empresa.mx
 Generacion de reporte en JSON:
 
 ```bash
-python heading_hierarchy_validator.py https://empresa.mx --json
+python heading_hierarchy_validator.py https://empresa.mx -json
 ```
 
----
+***
 
 ## Herramienta en Linea
 
 Para pruebas en la nube con analisis visual:
 
-* **[Analizador de Jerarquia de Encabezados en Mexico](https://tools.tavardt.com/mx/analizador-etiquetas-encabezado/)**
+* **Analizador de Jerarquia de Encabezados en Mexico**
 * **[Portal TAVARDT Mexico](https://ag.tavardt.com/mx/)**
 
----
+***
 
 ## Soporte y Asesoria
 
-Para estructuracion de contenidos conforme a Estandares Digitales Nacionales y Google Search Central, contacte a **[TAVARDT Mexico](https://ag.tavardt.com/mx/contacto/)**.
+Para estructuracion de contenidos conforme a Estandares Digitales Nacionales y Google Search Central, contacte a **TAVARDT Mexico**.
