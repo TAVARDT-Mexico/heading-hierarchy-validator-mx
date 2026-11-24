@@ -24,7 +24,7 @@ Desarrollado y respaldado por la division de calidad digital de **TAVARDT**.
 Requiere Python 3.8 o superior sin librerias adicionales.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/heading-hierarchy-validator-mx.git
+git clone https://github.com/TAVARDT/heading-hierarchy-validator-mx.git
 cd heading-hierarchy-validator-mx
 python heading_hierarchy_validator.py https://empresa.mx
 ```
