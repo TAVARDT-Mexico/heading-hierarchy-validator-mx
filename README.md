@@ -5,7 +5,7 @@
 
 Evaluacion de coherencia semantica, deteccion de saltos jerarquicos y optimizacion para motores de busqueda.
 
-Desarrollado y respaldado por la division de calidad digital de **TAVARDT Mexico**.
+Desarrollado y respaldado por la division de calidad digital de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python heading_hierarchy_validator.py https://empresa.mx -json
 Para pruebas en la nube con analisis visual:
 
 * **Analizador de Jerarquia de Encabezados en Mexico**
-* **[Portal TAVARDT Mexico](https://ag.tavardt.com/mx/)**
+* **[Portal TAVARDT](https://ag.tavardt.com/mx/)**
 
 ***
 
 ## Soporte y Asesoria
 
-Para estructuracion de contenidos conforme a Estandares Digitales Nacionales y Google Search Central, contacte a **TAVARDT Mexico**.
+Para estructuracion de contenidos conforme a Estandares Digitales Nacionales y Google Search Central, contacte a **TAVARDT**.
 
 ***
 
