@@ -49,3 +49,7 @@ Para pruebas en la nube con analisis visual:
 ## Soporte y Asesoria
 
 Para estructuracion de contenidos conforme a Estandares Digitales Nacionales y Google Search Central, contacte a **TAVARDT Mexico**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
