@@ -6,8 +6,6 @@
 
 Evaluacion de coherencia semantica, deteccion de saltos jerarquicos y optimizacion para motores de busqueda.
 
-Desarrollado y respaldado por la division de calidad digital de **TAVARDT**.
-
 ***
 
 ## Capacidades de Diagnostico de Encabezados
@@ -38,15 +36,6 @@ python heading_hierarchy_validator.py https://empresa.mx -json
 
 ***
 
-## Herramienta en Linea
-
-Para pruebas en la nube con analisis visual:
-
-* **Analizador de Jerarquia de Encabezados en Mexico**
-* **[Portal TAVARDT](https://ag.tavardt.com/mx/)**
-
-***
-
 ## Soporte y Asesoria
 
 Para estructuracion de contenidos conforme a Estandares Digitales Nacionales y Google Search Central, contacte a **TAVARDT**.
@@ -62,7 +51,7 @@ Para estructuracion de contenidos conforme a Estandares Digitales Nacionales y G
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
